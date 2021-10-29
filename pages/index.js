@@ -150,6 +150,7 @@ const Index = () => (
             Open in a new tab
           </a>
         </li>
+        <li> Optional Catch All Route <Link href='/measurement/test1'><a>Link 1</a></Link></li>
       </ol>
     </ol>
   </div>
